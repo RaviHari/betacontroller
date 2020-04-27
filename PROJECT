@@ -1,0 +1,7 @@
+domain: betatest.io
+repo: github.com/RaviHari/beta-controller
+resources:
+- group: betactrl
+  kind: BetaResource
+  version: v1beta1
+version: "2"

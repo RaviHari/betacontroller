@@ -1,0 +1,7 @@
+apiVersion: betactrl.betatest.io/v1beta1
+kind: BetaResource
+metadata:
+  name: betaresource-sample
+spec:
+  # Add fields here
+  foo: bar
